@@ -1,0 +1,44 @@
+*{
+    font-family: "Kanit", sans-serif;
+}
+header{
+    background-color: #d24d6c;
+}
+.nav-item a{
+color: black;
+}
+#boton-acercademi{
+    background-color: #c1858f;
+}
+.nav-item a:hover{
+    color: #F8FFB5;
+}
+#app{
+    color: #d24d6c;
+}
+.boton-trayectoria{
+    background-color: #F8FFB5;
+    color: #d24d6c;
+}
+.habilidades{
+    background-color: #d62957;
+    color: #ffa588;
+}
+.btn-proyecto{
+    background-color: #F8FFB5;
+   }
+.btn-proyecto a{
+    text-decoration: none;
+    color: #d62957;
+}   
+.card .card-title{
+    color: #d24d6c;
+}
+
+.carousel-item .card{
+    background-color: #a8c99e;
+}
+#contacto{
+    background-color:#d62957;
+    color: #F8FFB5;
+}
