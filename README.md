@@ -1,6 +1,6 @@
 # Portafolio de proyectos
 
-¡Hola! **Soy Fabiola Caballero**, estudiante 👩🏽 de la Licenciatura en Agroecología, apasioanada por la naturaleza 🌱 y la tecnología 🖥️, aquí en contrataras información sobre mí. 
+¡Hola! **Soy Fabiola Caballero**, estudiante 👩🏽 de la Licenciatura en Agroecología, apasioanada por la naturaleza 🌱 y la tecnología 🖥️, aquí encontrataras información sobre mí. 
 
 _____
 ## El proyecto cuenta con las secciones de:
